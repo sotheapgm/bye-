@@ -1,0 +1,139 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 855px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 267px;
+  object-position: 50% 91.68%;
+  width: 267px;
+  background-image: url("https://assets.nicepagecdn.com/7f3f506c/4101665/images/c45bb4436384b407ae68e813abff51ffa94184cad05882ec50b1116a323201f62a13c30da5e44b91ce7a55fdb88bce7fc715af93bed400bcf7e3e2_1280.png");
+  background-position: 100% 50%;
+  margin: 199px auto 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 91px;
+  min-height: 16px;
+  width: 360px;
+  min-width: 134px;
+  margin: -80px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 64px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 814px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 649px;
+  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+  margin: 41px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-family: "Open Sans", sans-serif;
+  margin: 30px auto 60px;
+  padding: 19px 68px 21px 67px;
+}
+
+.u-section-1 .u-icon-5 {
+  font-size: 2.0715em;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 917px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 186px;
+    width: 186px;
+    background-position: 50% 50%;
+    margin-top: 18px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 37px;
+    width: 277px;
+    min-width: 193px;
+    margin-top: -58px;
+    margin-right: -1px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    height: 64px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    height: 64px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    height: 64px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-family: "Noto Sans Khmer";
+    font-weight: 700;
+    width: auto;
+    margin-top: 68px;
+    margin-right: 0;
+    margin-left: 10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    font-family: "Noto Sans Khmer";
+    margin-top: 10px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-family: "Noto Sans Khmer";
+    margin-top: 18px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+  }
+}
